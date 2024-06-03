@@ -1,6 +1,6 @@
-let num1 = prompt ('enter the first number ');
-let op = prompt ('enter your operator');
-let num2 =prompt('enter your second number');
+let num1 = Number(prompt('enter the first number '));
+let op = prompt('enter your operator');
+let num2 =Number(prompt('enter your second number'));
 
 
 
